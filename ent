@@ -1,0 +1,56 @@
+9
+
+AC XC EEE PROP IES AClab XClab PROPlab IESlab
+
+XC      10 dilluns   8 10  dijous    10 11 -
+XC      30 dimecres  10 12 divendres 10 11 -
+
+EEE     10 dimarts   12 14 dijous    11 13 -
+EEE     20 dimarts   10 12 dijous    9 11  -
+
+AC      30 dilluns   11 12 dijous    11 13 -
+AC      20 dimecres  8 10  divendres 12 13 -
+AC      10 dimecres  11 12 divendres 8 10  -
+
+PROP    10 dilluns   10 12 -
+
+IES     10 dimarts   10 12 -
+IES     20 dimarts   8 10  -
+
+AClab   32 dilluns   10 11 -
+AClab   23 divendres 10 11 -
+AClab   33 dijous    10 11 -
+AClab   11 dimecres  10 11 -
+AClab   23 divendres 10 11 -
+AClab   13 dimarts   9 10  -
+AClab   14 dimecres  9 10  -
+AClab   22 dilluns   9 10  -
+AClab   31 dilluns   9 10  -
+AClab   12 dimarts   8 9   -
+AClab   21 dilluns   8 9   -
+
+XClab   12 divendres 12 14 -
+XClab   11 divendres 10 12 -
+XClab   31 dimarts   10 12 -
+XClab   13 dimecres  8 10  -
+XClab   33 dimarts   8 10  -
+XClab   32 divendres 8 10  -
+XClab   14 dijous    8 10  -
+
+PROPlab 13 divendres 12 14 -
+PROPlab 16 divendres 12 14 -
+PROPlab 14 divendres 10 12 -
+PROPlab 12 divendres 10 12 -
+PROPlab 15 dijous    8 10  -
+PROPlab 11 dijous    8 10  -
+
+
+IESlab  23 dijous    11 13 -
+IESlab  13 divendres 10 12 -
+IESlab  11 divendres 12 14 -
+IESlab  22 divendres 10 12 -
+IESlab  21 divendres 8 10  -
+IESlab  12 dijous    8 10  -
+
+
+
